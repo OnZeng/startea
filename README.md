@@ -1,5 +1,5 @@
-# StarTea博客  
-#### 前台演示地址:[https://startea.top](https://startea.top)  
+# StarTea博客 
+#### 前台演示地址:[https://startea.top](https://startea.top)（自适应移动端）  
 #### 后台演示地址:[https://admin.startea.top](https://admin.startea.top)  
 ## 前端   
 #### 1.框架:**[Vue2](https://cn.vuejs.org/)**  
