@@ -16,4 +16,4 @@
 #### 4.权限鉴定:**[token](https://www.npmjs.com/package/jsonwebtoken)**     
 #### 5.数据库使用的:**[Mysql](https://www.mysql.com/)**     
 ## 引言
-#### 目前只开发了百分之70左右
+#### 目前只开发了百分之60左右
