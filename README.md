@@ -14,6 +14,10 @@
 #### 2.框架:**[express](http://expressjs.com/zh-cn/)**    
 #### 3.IP归属地定位:**[高德定位服务](https://lbs.amap.com/)**    
 #### 4.权限鉴定:**[token](https://www.npmjs.com/package/jsonwebtoken)**     
-#### 5.数据库使用的:**[Mysql](https://www.mysql.com/)**     
+#### 5.数据库使用的:**[Mysql](https://www.mysql.com/)**  
+## 部署
+#### [前台网站](https://startea.top)和后端部署在腾讯云原生服务器
+#### [后台网站](https://admin.startea.top)部署在云空间
 ## 引言
-#### 目前只开发了百分之60左右
+#### 前后端功能都比较简单，适合入门学习。   
+#### 目前只开发了百分之60左右，看情况更新...
