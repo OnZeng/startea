@@ -6,11 +6,11 @@ const mysql_api=global.express.Router()
 //连接数据库
 //使用连接池
 global.client = global.mysql.createPool({
-    host: 'rm-bp1ly69i12v441v99ko.mysql.rds.aliyuncs.com', //ip地址
-    port: '3306', //端口
-    user: 'qq1953594748', //用户名
-    password: 'Qq1953594748', //密码
-    database: 'user',
+    host: '', //ip地址
+    port: '', //端口
+    user: '', //用户名
+    password: '', //密码
+    database: '',
     charset:'utf8mb4',
     waitForConnections: true,
     connectionLimit: 10,
