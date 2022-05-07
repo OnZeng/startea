@@ -9,6 +9,7 @@
 #### 5.每日诗词:**[https://www.jinrishici.com/](https://www.jinrishici.com/)**   
 #### 6.富文本编辑器:**[wangEditor5](https://www.wangeditor.com/)**    
 #### 7.路由管理:**[Vue-Router](https://router.vuejs.org/zh/)**
+#### 8.css动画库**[animate.css](https://animate.style/)**
 ## 后端   
 #### 1.[Node.js](http://nodejs.cn/)    
 #### 2.框架:**[express](http://expressjs.com/zh-cn/)**    
