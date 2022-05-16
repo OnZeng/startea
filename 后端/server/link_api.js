@@ -100,7 +100,7 @@ link_api.post('/api/link_4',d,(req,res)=>{
     })
 })
 
-//删除链接
+//删除链接1
 link_api.post('/api/link_5',d,(req,res)=>{
     let id=req.body.id
     let sql='delete from link where link_id=?'
